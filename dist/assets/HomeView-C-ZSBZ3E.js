@@ -1,0 +1,1 @@
+import{_ as n,c as e,o as c,a as s}from"./index-CeOg-997.js";const a={},r={class:"text-center"};function _(o,t){return c(),e("h1",r,"Esta es una aplicacion Con Route-Viewer Sobre Pokemons")}const i=n(a,[["render",_]]),u={__name:"HomeView",setup(o){return(t,m)=>(c(),e("main",null,[s(i)]))}};export{u as default};

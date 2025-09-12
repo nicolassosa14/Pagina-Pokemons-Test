@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as n,b as e}from"./index-CeOg-997.js";const a={},r={class:"about text-center"};function l(c,t){return n(),s("div",r,[...t[0]||(t[0]=[e("h1",null,"Esta es la pagina About",-1),e("br",null,null,-1),e("h2",null,"Es sobre pokemons",-1)])])}const _=o(a,[["render",l]]);export{_ as default};
